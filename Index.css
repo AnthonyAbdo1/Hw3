@@ -1,0 +1,108 @@
+.hello{
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: solid;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+
+.aboutme{
+    text-align: left;
+   
+}
+
+.me{
+    max-width: 250px;
+    text-align: left;
+    font-size: 13px;
+   ;
+}
+
+.topleft{
+    border-right: solid;
+   
+    
+}
+
+.lists{
+    
+    border-bottom: solid;
+}
+
+.fav{
+    text-align: center;
+    margin-right: 220px;
+  
+}
+
+.favfoods{
+     display: inline-block;
+    
+}
+
+.favdrinks{
+   
+     display: inline-block;
+     padding: 20px;
+}
+
+.favanimals{
+     display: inline-block;
+     text-align: center;
+    
+     
+}
+
+
+
+
+
+.sendemail{
+    border-top: solid;
+}
+
+.listcolumn{
+    border-bottom: solid;
+    width: 500px;
+    height: 415px;
+}
+
+.shedual, th, td{
+    padding: 6px;
+    margin: 6px;
+    border: solid;
+    
+    
+}
+
+.contact {
+    width: 100px;
+    
+}
+
+
+
+.contactform{
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 40px;
+    border: solid;
+    width: 202px;
+    
+   
+        
+}
+
+.mysched{
+    margin: 10px;
+    
+}
+
+.listpic {
+    height: 200px;
+    width: 100px;
+    display: inline-block;
+    padding-bottom: 50px;
+    margin-left: 65px;
+}
